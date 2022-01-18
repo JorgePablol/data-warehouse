@@ -45,7 +45,7 @@ Sample Data:
 
 
 ## Run the scripts
-1. Create a redshift cluster in aws, also vpc and upload files on s3.
+1. Create a redshift cluster in aws, also create a public vpc and upload files on s3.
 2. Write a data warehouse configuration files that allows you to query redshift with code.
 3. Open a terminal.
 4. Write **python create_tables.py**: This one goes first so you have tables in your db.
