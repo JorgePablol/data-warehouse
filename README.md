@@ -1,4 +1,4 @@
-# Data warehouse with AWS
+# Data wharehouse with AWS
 
 This project processes files storaged in s3 into a staging table and then loads the data into 5 different tables on redshift, all of this was done for the streaming music startup sparkify, that needs to move their information into the cloud.
 
